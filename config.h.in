@@ -1,0 +1,2 @@
+#define cuda_pybind_VERSION_MAJOR @cuda_pybind_VERSION_MAJOR@
+#define cuda_pybind_VERSION_MINOR @cuda_pybind_VERSION_MINOR@
